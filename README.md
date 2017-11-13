@@ -1,2 +1,2 @@
-# QuickSort
-A sorting algorithm which involves "partitioning" an array
+# quick-sort-starter
+Repo with starter code for quicksort
